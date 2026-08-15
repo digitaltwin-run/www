@@ -1,3 +1,6 @@
-# 🌐 Digital Twin Runtime — Landing Page (`www`)
+# digitaltwin-run — Projects Hub (Single-File index.php Engine)
 
-Official landing page and interactive projects dashboard for **digitaltwin-run**.
+Pure single-file PHP landing page and ecosystem dependency hub for .
+
+## Quickstart
+
